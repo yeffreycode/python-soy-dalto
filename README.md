@@ -2,4 +2,4 @@
 
 - [x] Introduccion.
 - [x] tipos de datos.
-- [ ] variables
+- [x] variables
