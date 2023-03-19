@@ -19,7 +19,7 @@
 ## Fundamentos
 - [x] Datos simples.
 - [x] variables
-- [ ] Datos compuestos.
+- [x] Datos compuestos.
 - [ ] Operadores aritméticos.
 - [ ] Operadores de comparación.
 - [ ] Condicionales.
