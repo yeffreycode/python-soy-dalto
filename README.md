@@ -20,7 +20,7 @@
 - [x] Datos simples.
 - [x] variables
 - [x] Datos compuestos.
-- [ ] Operadores aritméticos.
+- [x] Operadores aritméticos.
 - [ ] Operadores de comparación.
 - [ ] Condicionales.
 - [ ] Operadores lógicos.
