@@ -21,7 +21,7 @@
 - [x] variables
 - [x] Datos compuestos.
 - [x] Operadores aritméticos.
-- [ ] Operadores de comparación.
+- [x] Operadores de comparación.
 - [ ] Condicionales.
 - [ ] Operadores lógicos.
 
