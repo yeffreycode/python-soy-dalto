@@ -22,7 +22,7 @@
 - [x] Datos compuestos.
 - [x] Operadores aritméticos.
 - [x] Operadores de comparación.
-- [ ] Condicionales.
+- [x] Condicionales.
 - [ ] Operadores lógicos.
 
 
