@@ -23,7 +23,7 @@
 - [x] Operadores aritméticos.
 - [x] Operadores de comparación.
 - [x] Condicionales.
-- [ ] Operadores lógicos.
+- [x] Operadores lógicos.
 
 
 ## Sección Básica
