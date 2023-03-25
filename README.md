@@ -27,7 +27,7 @@
 
 
 ## Sección Básica
-- [ ] Métodos de cadenas
+- [x] Métodos de cadenas
 - [ ] Métodos de listas.
 - [ ] Métodos de diccionarios
 - [ ] Entrada de datos.
