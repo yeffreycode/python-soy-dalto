@@ -33,7 +33,7 @@
 - [x] Métodos de cadenas
 - [x] Métodos de listas.
 - [x] Métodos de diccionarios
-- [ ] Entrada de datos.
+- [x] Entrada de datos.
 
 ## Sección Intermedia
 
