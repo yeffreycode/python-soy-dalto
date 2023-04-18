@@ -34,7 +34,7 @@
 - [x] Métodos de listas.
 - [x] Métodos de diccionarios
 - [x] Entrada de datos.
-- [ ] ejercicios practicos 1
+- [x] ejercicios practicos 1
 
 ## Sección Intermedia
 

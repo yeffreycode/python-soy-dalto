@@ -1,0 +1,32 @@
+Ejercicio 1:
+
+::datos===========
+curso actual: 1.5h
+Mínimo: 2.5h 
+Promedio: 4h
+Máximo: 7h
+Crudo(material no editado) en promedio resto cursos: 5h
+Crudo de curso actual: 3.5h
+
+a) Deferencia en porcentaje entre curso actual y:
+- el más rápido de otros cursos.
+- el más lento de otros cursos.
+- el promedio de los cursos.
+
+b) Porcentaje de material inservible que se reduce en:
+- El promedio de los cursos.
+- El curso actual (este curso).
+
+C) Ver 10 horas de este curso a cuantas de otros cursos equivale?. ¿y al revés?
+
+
+Ejercicio 2
+datos: promedio de palabras por segundo: 1 palabra por segundo
+A) Pedirle al usuario que diga cualquier texto real y:
+- Calcular cuanto tardaría en decir esa frase.
+- ¿cuantas palabras dijo?
+
+B) si se tarde mas de 1 minuto:
+- decirle: "para flaco tampoco te pedí un testamento"
+
+C) Dalto habla un 30% más rápido ¿cuanto tardaría él en decirlo?
