@@ -38,8 +38,7 @@
 
 ## Sección Intermedia
 
-- [ ] Ejercicios Prácticos.
-- [ ] Variables 2.0
+- [x] Variables 2.0
 - [ ] Diccionarios 2.0
 - [ ] Bucle For
 - [ ] Bucle while
