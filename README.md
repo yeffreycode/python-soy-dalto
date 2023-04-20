@@ -39,7 +39,7 @@
 ## Sección Intermedia
 
 - [x] Variables 2.0
-- [ ] Diccionarios 2.0
+- [x] Diccionarios 2.0
 - [ ] Bucle For
 - [ ] Bucle while
 - [ ] Funciones integradas.
