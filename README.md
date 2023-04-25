@@ -41,7 +41,7 @@
 - [x] Variables 2.0
 - [x] Diccionarios 2.0
 - [x] Bucle For
-- [ ] Bucle while
+- [x] Bucle while
 - [ ] Funciones integradas.
 - [ ] Creando funciones propias.
 - [ ] Funciones Lambda.
