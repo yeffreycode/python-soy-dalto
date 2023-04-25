@@ -40,7 +40,7 @@
 
 - [x] Variables 2.0
 - [x] Diccionarios 2.0
-- [ ] Bucle For
+- [x] Bucle For
 - [ ] Bucle while
 - [ ] Funciones integradas.
 - [ ] Creando funciones propias.
@@ -55,7 +55,7 @@
 - [ ] Archivos TXT.
 - [ ] Archivos CSV.
 - [ ] Trabajando con archivos.
-- [ ] Tranbajando con gráficos.
+- [ ] Trabajando con gráficos.
 
 ## Sección Avanzada.
 
