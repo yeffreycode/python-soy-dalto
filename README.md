@@ -42,7 +42,7 @@
 - [x] Diccionarios 2.0
 - [x] Bucle For
 - [x] Bucle while
-- [ ] Funciones integradas.
+- [x] Funciones integradas.
 - [ ] Creando funciones propias.
 - [ ] Funciones Lambda.
 - [ ] Ejercicios prácticos 2.
