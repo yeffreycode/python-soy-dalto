@@ -43,7 +43,7 @@
 - [x] Bucle For
 - [x] Bucle while
 - [x] Funciones integradas.
-- [ ] Creando funciones propias.
+- [x] Creando funciones propias.
 - [ ] Funciones Lambda.
 - [ ] Ejercicios prácticos 2.
 
