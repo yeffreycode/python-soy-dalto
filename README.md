@@ -44,7 +44,7 @@
 - [x] Bucle while
 - [x] Funciones integradas.
 - [x] Creando funciones propias.
-- [ ] Funciones Lambda.
+- [x] Funciones Lambda.
 - [ ] Ejercicios prácticos 2.
 
 ## Sección semi-Avanzada.
