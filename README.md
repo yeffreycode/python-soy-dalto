@@ -45,7 +45,7 @@
 - [x] Funciones integradas.
 - [x] Creando funciones propias.
 - [x] Funciones Lambda.
-- [ ] Ejercicios prácticos 2.
+- [x] Ejercicios prácticos 2.
 
 ## Sección semi-Avanzada.
 
