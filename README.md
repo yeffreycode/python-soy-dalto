@@ -50,7 +50,7 @@
 ## Sección semi-Avanzada.
 
 - [x] Módulos
-- [ ] Enrutamiento de módulos.
+- [x] Enrutamiento de módulos.
 - [ ] Paquetes.
 - [ ] Archivos TXT.
 - [ ] Archivos CSV.
