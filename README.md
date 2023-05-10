@@ -49,7 +49,7 @@
 
 ## Sección semi-Avanzada.
 
-- [ ] Módulos
+- [x] Módulos
 - [ ] Enrutamiento de módulos.
 - [ ] Paquetes.
 - [ ] Archivos TXT.
