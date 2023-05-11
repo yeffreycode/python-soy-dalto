@@ -53,7 +53,7 @@
 - [x] Enrutamiento de módulos.
 - [x] Paquetes.
 - [x] Archivos TXT.
-- [ ] Archivos CSV.
+- [x] Archivos CSV.
 - [ ] Trabajando con archivos.
 - [ ] Trabajando con gráficos.
 
