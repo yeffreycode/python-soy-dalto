@@ -54,7 +54,7 @@
 - [x] Paquetes.
 - [x] Archivos TXT.
 - [x] Archivos CSV.
-- [ ] Trabajando con archivos.
+- [x] Trabajando con archivos.
 - [ ] Trabajando con gráficos.
 
 ## Sección Avanzada.
