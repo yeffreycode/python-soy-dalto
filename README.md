@@ -55,7 +55,7 @@
 - [x] Archivos TXT.
 - [x] Archivos CSV.
 - [x] Trabajando con archivos.
-- [ ] Trabajando con gráficos.
+- [x] Trabajando con gráficos.
 
 ## Sección Avanzada.
 
