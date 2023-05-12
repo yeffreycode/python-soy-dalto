@@ -60,7 +60,7 @@
 ## Sección Avanzada.
 
 - [x] Excepciones.
-- [ ] Expresiones regulares.
+- [x] Expresiones regulares.
 - [ ] Analizando Expresiones regulares.
 - [ ] Ejercicio de Expresiones regulares.
 
