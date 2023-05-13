@@ -66,5 +66,5 @@
 
 ## FIN
 
-- [ ] Escena final
-- [ ] Fin
+- [x] Escena final
+- [x] Fin
