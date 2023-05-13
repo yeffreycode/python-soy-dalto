@@ -62,7 +62,7 @@
 - [x] Excepciones.
 - [x] Expresiones regulares.
 - [x] Analizando Expresiones regulares.
-- [ ] Ejercicio de Expresiones regulares.
+- [x] Ejercicio de Expresiones regulares.
 
 ## FIN
 
